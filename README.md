@@ -1,2 +1,2 @@
 # meerab-zulfiqar
-THM badges, certifications and work summary
+certifications, evidence and work summary 
